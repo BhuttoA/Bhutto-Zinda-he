@@ -1,4 +1,3 @@
-# Bhutto-Zinda-he
 
 ````markdown
 # <project-name> 🚀
